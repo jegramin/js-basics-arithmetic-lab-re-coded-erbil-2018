@@ -13,4 +13,4 @@ if (Number.isInteger(currentAge)) {
 } else {
   ageIsValid = false;
 }
-randomNumber = Math.floor(Math.random() * 19) + 1;
+randomNumber = Math.floor(Math.random() * 10) + 1;
