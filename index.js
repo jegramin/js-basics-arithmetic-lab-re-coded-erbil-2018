@@ -7,4 +7,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-let newID = 1000000074;
+let newID = 40 + 2;
