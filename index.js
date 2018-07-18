@@ -16,4 +16,4 @@ if (Number.isInteger(currentAge)) {
 let randomNumber = Math.random() * 19 + 1;
 let randomInteger = Math.floor(randomNumber) ;
 let randomUserID = randomInteger;
-randomUserID.to.be.at.least(1000000001).and.at.most(1000000020);
+randomUserID = 100000000;
