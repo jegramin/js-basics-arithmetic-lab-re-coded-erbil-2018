@@ -14,4 +14,4 @@ if (Number.isInteger(currentAge)) {
   ageIsValid = false;
 }
 let randomNumber = Math.random() * 19 + 1;
-let randomInteger 
+let randomInteger = Math.floor(Math.random() * 10) ;
